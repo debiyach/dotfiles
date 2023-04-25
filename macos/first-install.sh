@@ -15,4 +15,9 @@ if ! command -v git &> /dev/null; then
     echo "${GREEN} Git installed! ${NC}"
 fi
 
+if ! command -v nvim &> /dev/null; then
+    brew install neovim
+    echo "${GREEN} Git installed! ${NC}"
+fi
+
 echo "${GREEN} Finish! ${NC}"
