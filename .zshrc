@@ -3,7 +3,7 @@ export ZSH="$HOME/.oh-my-zsh"
 export PATH=/opt/homebrew/bin:$PATH
 
 # Define variables
-ZSH_THEME="crcandy"
+ZSH_THEME="apple"
 ZSH_ALIAS_FINDER_AUTOMATIC=true
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#ff00ff,bg=cyan,bold,underline"
 
